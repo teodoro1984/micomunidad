@@ -1,0 +1,51 @@
+class holaMunde extends HTMLElement{
+    constructor(){
+        super();
+        this.name;
+        this.surname;
+    }
+
+    static get observedAttributes(){
+        return ['name', "surname"];
+    }
+
+    attributeChangedCallback(nameAttr, oldValue, newValue){
+        switch(nameAttr){
+            case "name":
+                this.name = newValue;
+            break;
+            case "surname":
+                this.surname = newValue;
+            break;
+        }
+    }
+
+    connectedCallback(){
+        this.innerHTML = `<h5>© 2023 TU PORTAL DIGITAL | Web dedicado a diversos temas  para los ciberlectores .</h5><hr color="navy" size="1px">
+<h5>Terminos y condiciones.</h1><hr color="navy" size="1px"><p>Estimado lector,nuestra web se proyecta con la finalidad de presentarles diversos temas y enfoques,<strong>disfrute de nuestras publicaciones</strong> y haznos saber tus comentarios.</p> 
+<p>De antemano agradecemos tu visita a nuestro portal digital.Gracias.</p><p>Atentamente:EL EDITOR:Teodoro Hernandez Velasco.</p>
+<hr color="navy" size="1px">
+<div class="enlacemapa"><a class="sitemap" href="https://teohervelxmen.webcindario.com/sitemap.xml">Ver sitemap del sitio web.</a></div>
+
+
+<style>
+.sitemap{
+ display:block;
+ color:#030d4f;
+ text-decoration:none;
+ font-weight:bold;
+ font-size:14px;
+ padding:10px;
+ font-family:"roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+ text-transform:none;
+ letter-spacing:1px;
+ margin-right:10px;
+}
+
+</style>`;
+        this.style.color = "blue";
+        this.style.fontFamily = "sans-serif";
+    }
+}
+
+window.customElements.define("code-foot", holaMunde);

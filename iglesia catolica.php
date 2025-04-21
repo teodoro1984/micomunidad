@@ -1,0 +1,103 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="canonical" href="https://teohervelxmen.webcindario.com/iglesia catolica.php"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta name="keywords" content="iglesia, catolica, san isidro, pantepec, chiapas,">
+    <meta name="description" content="Aqui te presentamos breve reseña sobre la iglesia catolica..">
+    <title>Templo catolico San Isidro Pantepec Chiapas.</title>
+    
+
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    
+    
+    <link rel="icon" href="img/favicon.ico">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster:400">
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "MI ESPACIO VIRTUAL",
+		"logo": "img/Bunch-of-Balloons-PNG-Photos.png",
+		"sameAs": [
+				"https://facebook.com/name",
+				"https://twitter.com/name",
+				"https://instagram.com/name"
+		]
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta name="twitter:site" content="@">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="CONTACTANOS">
+    <meta name="twitter:description" content="MI ESPACIO VIRTUAL">
+    <meta property="og:title" content="SAN ISIDRO LAS BANDERAS.">
+    <meta property="og:description" content="Conoce la localidad y sus costumbres.">
+    <meta property="og:type" content="website">
+	<meta property="og:image" name="facebook:image" content="https://teohervelxmen.webcindario.com/img/imagen de inicio.jpg" />
+  <meta data-intl-tel-input-cdn-path="intlTelInput/">
+</head>
+
+<div id = "fb-root" > </div> <script async defer crossorigin = "anonymous" src = "https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v3.3&appId= 2158694887700796 & autoLogAppEvents = 1 " > </script>
+
+
+<div class="contenedor">
+
+<?php include("menu de navegacion.php"); ?>
+
+
+<div class="caja-principal">
+<div class="cuerpo">
+
+
+<h1>Donativos que a recibido el templo San Isidro.</h1>
+                   <p>El templo mayor de San Isidro Las Banderas Pantepec Chiapas a recibido muchos apoyos de difentes sectores.Acontinuacion mencionaremos algunos de ellos.</p>
+				   <img src="https://scontent-den4-1.xx.fbcdn.net/v/t39.30808-6/345838839_621346740028129_8137065415077427010_n.jpg?_nc_cat=109&cb=99be929b-59f725be&ccb=1-7&_nc_sid=0debeb&_nc_ohc=y8LwDULnY3MAX8BTBW_&_nc_ht=scontent-den4-1.xx&oh=00_AfDp11f9fyjnMO3u8O7UoaGbORljWR4PECiNQksGOPiqog&oe=649A0CD1">
+
+                   <h2>Donativo de la empresa minera MIM mexico.</h2>
+                   <p>El mayor donativo que se recibe para la construccion del templo fue de la empresa minera MIM Mexico,un donativo de $500,000.00 pesos .</p>
+
+                   <h2>La aportacion del presidente Roger Levi Martinez.</h2>
+                   <p>En diciembre del 2019,el pesidente municipal de ese entonces apoya a la iglesia catolica con el 100% de techado de este templo,esto incluia materiales y mano de obra.</p>	
+                   
+                   <h2>El templo mayor recibe una campana.</h2>
+                   <p>El 12 de mayo del 2022 el pesidente municipal Enrique Hernandez dona una campana de 100 kg con valor equivalente a $100,000.00 pesos.</p>
+				   <img src="https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/281673105_126717133342554_4864369720849965271_n.jpg?stp=dst-jpg_s600x600&_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=55F0iODu65AAX9PbxYt&_nc_ht=scontent-dfw5-1.xx&oh=00_AfAyvfTQt6gKKQ0-8X_cVQzuuW4Hk0uosLMf9q097NAY3A&oe=649AB768">
+				   <h2>Personas con deseos de apoyar.</h2>
+                   <p>El señor Erasto Hernandez estuvo a cargo de la donacion de pintura y mano de obra,un equivalente de mas de $60,000.00 pesos,esto fue para renovar la pintura para la feria patronal del 15 de mayo del 2023.</p>
+				   <img src="https://scontent-dfw5-2.xx.fbcdn.net/v/t1.6435-9/60790123_2101019636690290_514097702611451904_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=O73wTJRJs3AAX8XX2aD&_nc_ht=scontent-dfw5-2.xx&oh=00_AfACa6gYQq2_dkAvwHFCMNWplxgBZP10KAmrtmyir25BTA&oe=64BC8AA2">
+				   
+				   <p>Y es que en años anteriores los catolicos siempre an aportado su granito de arena asi como en mano de obra o aportacion de material o efectivo,cabe destacar que el sr. Atilano Alvarez de la rib.Laguna Grande fue una de las personas que siempre a apoyado incansablemente en este rubro.</p>
+
+                   <h2>Una aportacion mas para la torre.</h2>
+                   <p>Se destinara para la continuacion de construccion de torre del templo la cantidad de mas de $60,000.00 pesos,un recurso que fue el saldo de la feria patronal del 15 de mayo del 2023,los trabajos de construcccion dieron inicio este 20 de junio del año en curso,el recurso es administrado por la accion catolica.</p>
+			   
+			   <p>Si tienes dudas dejanos tus comentarios y en cuanto podamos con gusto responderemos tus inquietudes.</p>
+
+  <div class = "fb-comments" data-href = "https://teohervelxmen.webcindario.com/iglesia catolica.php" data-width = "100%" data-numposts = "10" > </div>
+
+
+</div>
+<div class="barra-lateral">
+
+<?php include("entradas.php"); ?>
+
+
+</div>
+</div>
+<div class="pie">
+
+
+  <?php include("pie de pagina.php"); ?>
+
+</div>
+
+
+</div>
+
+
+

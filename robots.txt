@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: /web/
+Sitemap: https://teohervelxmen.webcindario.com/sitemap.xml

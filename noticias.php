@@ -1,0 +1,137 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" href="css/style.css?24092023">
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="canonical" href="https://teohervelxmen.webcindario.com/noticias.php" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta name="keywords" content="noticias,san isidro las banderas pantepec chiapas,accidentes,unidad deportiva,pantepec,chiapas,raul arain hernandez,proyectos,">
+    <meta name="description" content="Pagina exclusiva para noticias locales de Pantepec Chiapas.">
+    <title>Noticias locales</title>
+    
+
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    
+    
+    <link rel="icon" href="img/favicon.ico">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster:400">
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "MI ESPACIO VIRTUAL",
+		"logo": "img/Bunch-of-Balloons-PNG-Photos.png",
+		"sameAs": [
+				"https://facebook.com/name",
+				"https://twitter.com/name",
+				"https://instagram.com/name"
+		]
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta name="twitter:site" content="@">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="CONTACTANOS">
+    <meta name="twitter:description" content="MI ESPACIO VIRTUAL">
+    <meta property="og:title" content="Notas del dia.">
+    <meta property="og:description" content="Los sucesos mas impactantes de Pantepec Chiapas.">
+    <meta property="og:type" content="website">
+	<meta property="og:image" name="facebook:image" content="https://tse3.mm.bing.net/th?id=OIP.m2qUVWAr4S5aIi7WC9qSjAHaHJ&pid=Api&P=0" />
+  <meta data-intl-tel-input-cdn-path="intlTelInput/">
+</head>
+<div id = "fb-root" > </div> <script async defer crossorigin = "anonymous" src = "https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v3.3&appId= 2158694887700796 & autoLogAppEvents = 1 " > </script>
+
+
+<div class="contenedor">
+
+<?php include("menu de navegacion.php"); ?>
+
+
+<div class="caja-principal">
+<div class="cuerpo">
+
+
+<div class="fechadepublicacion"><p>CONTACTO:+52 919 100 5435</p></div>
+
+                <h1>Seccion de noticias locales.</h1>
+				<hr>
+				
+				
+				<div class="eco">
+								        <div class="eco3">
+										       <div class="fechadepublicacion1"><p>24 de septiembre del del 2023</p></div>
+										
+										    <h2>Unidad deportiva en espera.</h2>
+										
+										    <p>EL 10 de diciembre del 2021 el director de obras publicas,el ing Raul Arain Hernandez, anuncia en su perfil de facebook que viene un proyecto de una unidad deportiva para la localidad de San Isidro las Banderas del municipio de Pantepec Chiapas .</p>
+										    <p>Esta obra supuestamente deberia de comenzar desde el noviembre del 2022; pero resulta que el pasado 18 de septiembre de este año 2023,se dirige el presidente municipal Enrique Hernandez junto con el agente municipal Armando Hernandez y algunas personas mas,esto con la finalidad de investigar sobre este proyecto.La respuesta que les dan en las instituciones gubernametales es que la obra ya no se  va a efuectuar,cabe señalar que en este encuentro deberia de presentarse el ing. Raul Arain Hernandez cosa que no sucedio.</p>
+	                                    </div>
+										<div class="eco2"><img src="img/proyecto unidad deportiva.jpg"/>
+										                  <img src="img/presidente municipal.jpg"/>
+	                                    </div>
+	                               </div>
+								   
+								   <hr>
+				                   <div class="eco">
+								        <div class="eco3"><div class="fechadepublicacion1"><p>21 de abril del 2023</p></div>
+										<h2>Intensas lluvias afecta la zona norte.</h2>
+										<p>Mas de una semana se quedan sin energia electrica algunos municipios de la zona norte de Chiapas despues de intensas lluvias.</p>
+										<p>Algunos de los municipios afectados son:Tapilula,Rayon,Tapalapa,Pantepec,Ixtacomitan y algunas localidades que pertenecen a estos municipios,la energia electrica quedo restaurada al 100% hasta el dia de hoy.</p>
+										<p>Cabe destacar que muere un trabajador de la CFE Los hechos ocurrieron la noche de este miercoles alrededor de las 8 de la noche en el tramo carretero Solosuchiapa- Ixhuatán donde la CFE lleva a cabo trabajos de reparación en las lineas de conducción de energia eléctrica..</p>
+	                                    </div>
+										<div class="eco2"><img src="https://tse4.mm.bing.net/th?id=OIP.AcZf-Opq-Rvlk-qMR7BafAHaEL&pid=Api&P=0&h=180"/>
+										                  
+	                                    </div>
+	                               </div>
+								   <hr>
+								   
+								   
+                                   
+								   
+								   
+								   
+								   
+								   
+								   <div class="eco">
+								        <div class="eco3"><div class="fechadepublicacion1"><p>24 de marzo del 2023</p></div>
+										<h2>Se electrocuta un albañil.</h2>
+										<p>Tremenda caidad sufre una persona de oficio albañil,desde una segunda planta.Se encontraba laborando cuando se electrocuta con linea de alta tension para despues sufrir una caida desde la segunda planta;este suceso paso en una vivienda que se localiza cerca del templo catolico de la localidad de San Isidro las Banderas Pantepec chiapas.Despues del accidente,la persona es llevada de emergencia al hospital de Pichucalco chiapas pero segun versiones despues fue llevada a un hospital de reforma chiapas.</p>
+										<p>Esta persona era de la ribera el canelar del municpio de pantepec,y respondia a nombre de Ramiro.</p>
+	                                    </div>
+										<div class="eco2"><img src="https://podermx.tv/wp-content/uploads/2017/08/construcci%C3%B3n-casas.jpg"/>
+	                                    </div>
+	                               </div>
+								   
+			   
+			   <p>Si tienes dudas dejanos tus comentarios y en cuanto podamos con gusto responderemos tus inquietudes.</p>
+
+  <div class = "fb-comments" data-href = "https://teohervelxmen.webcindario.com/noticias.php" data-width = "100%" data-numposts = "10" > </div>
+
+
+</div>
+<div class="barra-lateral">
+
+<?php include("entradas.php"); ?>
+
+
+</div>
+</div>
+<div class="pie">
+
+
+  <?php include("pie de pagina.php"); ?>
+
+</div>
+
+
+</div>
+
+
+<style>
+ h2{font-family:"MaxWebPro-Light","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:19px;
+	color:green;margin-bottom:14px;line-height:13px;margin-top:3px;}
+
+</style>
+

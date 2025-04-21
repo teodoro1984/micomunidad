@@ -1,0 +1,155 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="canonical" href="https://teohervelxmen.webcindario.com/rosas.php"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta name="keywords" content="san isidro, las banderas, pantepec, chciapas,cultivo,rosas,felicidad,">
+    <meta name="description" content="APRENDE A CUIDAR TUS ROSALES.">
+    <title>Cuidados necesarios para cultivar las rosas.</title>
+    
+
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    
+    
+    <link rel="icon" href="img/favicon.ico">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster:400">
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "MI ESPACIO VIRTUAL",
+		"logo": "img/Bunch-of-Balloons-PNG-Photos.png",
+		"sameAs": [
+				"https://facebook.com/name",
+				"https://twitter.com/name",
+				"https://instagram.com/name"
+		]
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta name="twitter:site" content="@">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="CONTACTANOS">
+    <meta name="twitter:description" content="MI ESPACIO VIRTUAL">
+    <meta property="og:title" content="Jardineria y mas.">
+    <meta property="og:description" content="Aprende a plantar y cuidar tus rosales.">
+    <meta property="og:type" content="website">
+	<meta property="og:image" name="facebook:image" content="https://1.bp.blogspot.com/_tMNazB4xU2k/TSiSZqXvTJI/AAAAAAAAADw/RDi8rn5GTHc/s320/6.JPG" />
+  <meta data-intl-tel-input-cdn-path="intlTelInput/">
+</head>
+
+<div id = "fb-root" > </div> <script async defer crossorigin = "anonymous" src = "https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v3.3&appId= 2158694887700796 & autoLogAppEvents = 1 " > </script>
+
+
+<div class="contenedor">
+
+<?php include("menu de navegacion.php"); ?>
+
+
+<div class="caja-principal">
+<div class="cuerpo">
+<h1>Aprende a plantar y cuidar de forma adecuada tus rosales.</h1>
+<div class="publicada"><p>Publicado el 26 de marzo del 2023 <strong>CONTACTO:+52 919 100 5435</strong></p></div>
+
+<div class="eco">
+             <div class="eco2">
+			 
+                  <img src="https://eljardinderosas.cl/inicio/wp-content/uploads/2020/10/103642mv23x.jpg"/>
+             </div>
+             <div class="eco3">
+			 <h2>¿Tu hogar se ve triste o te sientes emocionalmente triste?.</h2>
+                  <p>Si tu hogar se ve triste o te sientes emocionalmente triste,colocar un jarro con rosas puedes cambiar la armonia de tu hogar o tu estado emocional,si tienes esta posibilidad,solo recuerda y manos a la obra.</p>
+				  
+				  
+				  
+
+
+             </div>
+</div>
+
+
+
+<div class="eco">
+             <div class="eco2">
+			 
+                  <img src="https://4.bp.blogspot.com/_tMNazB4xU2k/TSiVmCMJMOI/AAAAAAAAAEM/zSo006jy1XA/s1600/24.JPG"/>
+             </div>
+             <div class="eco3">
+			 <h2>¿Tus rosales no prosperan al momento de plantarlas?.</h2>
+                  <p>En algunas ocasiones tratamos de plantar esquejes de rosales en los lugares definitivos y el calor la estresa impidiento a que nuestro plan falle.Es mejor sembrar el esqueje en una bolsa de vivero y ponerlo bajo sombra y tener un riego adecuado,ya despues de 40 dias o 60 dias ya puedes transplantarlas y asi tener un mayor exito en la plantacion.</p>
+				  
+				  
+				  
+
+
+             </div>
+</div>
+
+
+
+
+
+
+
+
+
+  <h2>Las hormigas arrieras se acaban tus rosales?.</h2>
+
+  
+<p>He tenido la experiencia con mis rosales,y uno de los enemigos es la hormiga arriera,que si te descuidas pueden acabar tus rosales en cuestion de dias.Pero no te preocupes aqui te traigo la solucion.</p>
+<img src="https://c.pxhere.com/photos/af/c3/rose_garden_flower_rose_bloom_bloom_rosenbl_te_klostergarten_obersch_nenfeld-824517.jpg!d"/>
+
+<p>En youtube hay mucha informacion sobre insecticidas caseras pero yo no estoy convencido por ellos,ya que no es efectiva al cien por ciento.</p>
+
+<p>Si notas la presencia de las hormigas arrieras en tu huerto o rosales,tomate el tiempo y sigue a las hormigas hasta donde encuentres su nidal y si se trata de excavar pues hay que hacerla.</p>
+<p>Una vez localizado el nidal consigue insecticida quimica de nombre comercial Foley 50e,que para su uso y manejo requiere de mucho cuidado ya que es altamente toxico y peligroso,por cada litro de agua usar un mililitro de este quimico y enseguida aplicar con la aspersora,con la preparacion de un litro de agua con el Foley50e es mas que suficiente para exterminar a las hormigas.</p>
+
+
+<div class="eco">
+<h3>IMAGENES DE REFERENCIA.</h3>
+<hr>
+</div>
+
+<div class="eco">
+<div class="eco2"><p>Insecticida quimico.</p><img src="https://tse2.mm.bing.net/th?id=OIP.rc6ExUwuLUq43PQQjErgegHaEO&pid=Api&P=0&w=300&h=300"/></div>
+<div class="eco2"><p>Bomba aspersora.</p><img src="https://tse1.mm.bing.net/th?id=OIP.pCVcr8lJk54g5axX-VimkAHaHa&pid=Api&P=0"/></div>
+
+<div class="eco2"><p>Hormigas arrieras.</p><img src="https://imagenes.laestrella.com.pa/files/image_990_491/uploads/2019/10/10/5d9f0723d3baa.jpeg"/></div></div>
+			   
+			   <p>Si tienes dudas dejanos tus comentarios y en cuanto podamos con gusto responderemos tus inquietudes.</p>
+
+  <div class = "fb-comments" data-href = "https://teohervelxmen.webcindario.com/rosas.php" data-width = "100%" data-numposts = "10" > </div>
+
+
+</div>
+<div class="barra-lateral">
+
+<?php include("entradas.php"); ?>
+
+
+</div>
+</div>
+<div class="pie">
+
+
+  <?php include("pie de pagina.php"); ?>
+
+</div>
+
+
+</div>
+
+<style>
+h2{font-family:"Roboto";
+    color:green;font-size:22px;
+	margin-bottom:15px;}
+	
+h3{font-family:"Roboto";
+    color:green;font-size:18px;
+	margin-bottom:5px;}
+</style>
+
