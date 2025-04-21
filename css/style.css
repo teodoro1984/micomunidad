@@ -1,0 +1,435 @@
+* {
+  margin:0 auto;
+  height:auto;
+  
+}
+html{
+	background-color:#f7e8cc;
+	}
+
+	.contenedor{background-color:#e0bc3d;
+	width:75%;
+	position:relative;
+	overflow:visibility;
+	
+	}
+.cabecera{
+	width:100%;
+	height:20px;
+padding:10px;
+	margin-bottom:5px;
+border: solid yellw 1px;}
+
+.cuerpo{background-color:#;
+	width:70%;
+	height:auto;
+    line-height: 1.3;
+	text-align:justify;
+	padding:1px;
+	margin:30px;
+	margin-bottom:10px;
+    border: solid gra 1px;
+	}
+
+.present{background-color:#;
+	width:75%;
+	height:auto;
+    line-height: 1.3;
+	text-align:justify;
+	padding:5px;
+	margin-left:6%;
+	margin-bottom:10px;
+    border: solid gra 1px;
+	display:flex;}
+	
+	
+	
+	.targ{background-color:#;
+	width:25%;
+	height:auto;
+    line-height: 1.3;
+	text-align:justify;
+	padding:5px;
+	margin-left:6%;
+	margin-bottom:10px;
+    border: solid gra 1px;
+	display:flex;}
+	
+	
+	.targ img{background-color:;
+	width:25%;
+	height:auto;}
+    
+	
+	
+	
+.cuerpo h1{
+    font-family: "MaxWebPro-Light","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 17px;
+    color: red;
+	margin-bottom:18px;
+}
+
+.cuerpo h2{font-family:"MaxWebPro-Light","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:22px;
+	color:navy;padding-bottom:20px;line-height:13px;margin-top:3px;}
+
+ .barra-lateral{background-color:#;
+	width:35%;
+	height:auto;
+position:relative;
+
+	text-align:justify;
+	padding:5px;
+	margin-left:0%;
+	
+    	margin-bottom:10px;
+border: solid gra 1px;}
+
+.barra-lateral .entradas{width:75%;
+height:auto;
+padding:10px;
+position:fixed;
+background-color:#abe733j......;
+border:solid #651366 1pxkkkkk;
+border-radius: 10pxjjjj;
+margin:0 auto;
+margin-bottom:10px;}
+
+.cajacomentario{background-color:#00ccbe;
+	
+	height:auto;
+	
+	border: solid yellw 1px;
+	margin-top:0;
+	position:relative;
+	padding:10px 100px;
+	}
+.pie{background-color:#8050f1;
+	
+	height:auto;
+	
+	border: solid yellw 1px;
+	margin-top:0;
+	position:relative;
+	padding:40px;
+	}
+	
+ 	
+	
+
+	img{width:100% ;margin-bottom:20px;
+	
+	
+	}
+.entradas p{font-family:"MaxWebPro-Light","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:17px;
+	color:navy;}
+	.entradas img{margin-top:10px;margin-bottom:15px;}
+	
+.cuerpo h1{
+    font-family: "MaxWebPro-Light","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 26px;
+    color: green;
+	margin-bottom:30px;
+	margin-top:0;
+	line-height:28px;
+}
+
+	
+	.cuerpo p {
+    font-family: "MaxWebPro-Light","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 19px;
+    color: green;
+	margin-bottom:18px;
+	text-align:justify;
+}
+	.cabecera p {
+    font-family: "MaxWebPro-Light","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 17px;
+    color: blank;
+}
+	.entradas h5{font-family:"roboto","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;
+	color:navy;text-shadow: 1.5px 1px #e97f02;margin-top:15px;}
+	
+
+	.cabecera img {width:100%;
+}
+
+.iconos-sociales img{width:40px;border-radius:5px;margin:5px;transition:all 0.1s ease-out;}
+.iconos-sociales img:hover{
+transform: rotate(-40deg);}
+
+
+.pie p{font-family:"MaxWebPro-Light","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;
+	color:navy;margin-bottom:13px;line-height:17px;margin-top:8px;}
+	.cajacomentario h5{font-family:"roboto","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;
+	color:navy;margin-bottom:10px;}
+	.pie h5{font-family:"roboto","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;
+	color:navy;margin-bottom:10px;margin-top:8px;}
+	
+	.cuerpo h5{font-family:"roboto","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:25px;
+	color:navy;margin-bottom:15px;}
+	
+.fechadepublicacion p{font-family:"roboto","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:12px;
+	color:navy;font-weight:bold;}
+	
+ .eco3 .fechadepublicacion1 p{font-family:"roboto","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;
+	color:green;font-style:italic;}
+	
+.fechadepublicacion{margin-left:400px;position:relative;background-color:yelow}
+	
+	/* menu */
+
+#menu ul {
+ list-style:none;
+
+ padding:0;
+}
+
+/* items del menu */
+
+#menu ul li {
+ background-color:#ffc52ck....;
+}
+
+/* enlaces del menu */
+
+#menu ul a {
+ display:block;
+ color:#030d4f;
+ text-decoration:none;
+ font-weight:bold;
+ font-size:14px;
+ padding:10px;
+ font-family:"roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+ text-transform:none;
+ letter-spacing:1px;
+}
+
+/* items del menu */
+
+#menu ul li {
+ position:relative;
+ float:left;
+ margin:0;
+ padding:0;
+}
+
+/* efecto al pasar el ratón por los items del menu */
+
+#menu ul li:hover {
+ background:orange;
+}
+
+
+/* menu desplegable */
+
+#menu ul ul {
+ display:none;
+ position:absolute;
+ top:100%;
+ left:0;
+ background:#eee;
+ padding:0;
+ 
+}
+
+/* items del menu desplegable */
+
+#menu ul ul li {
+ float:none;
+ width:150px;
+ borderddd:solid #030d4f 0.5px;
+}
+
+/* enlaces de los items del menu desplegable */
+
+#menu ul ul a {
+ line-height:120%;
+ padding:6px 6px;
+}
+
+/* items del menu desplegable al pasar el ratón */
+
+#menu ul li:hover > ul {
+ display:block;
+}
+
+
+.caja-principal{
+ display:flex;
+ position:relative;
+ overflow:visible;
+ 
+}
+
+.eco{
+ display:flex;
+ border:solid gren 1px;
+ width:100%;
+ height:auto;
+ padding:1px;margin-bottom:1px;}
+ 
+ .eco2{border:solid gren 1px;
+ width:30%;
+ height:auto;}
+
+.eco3{border:solid gren 1px;
+ width:65%;
+ height:auto;
+ padding:10px;
+ }
+ 
+ .eco4{border:solid gren 1px;
+ width:100%;
+ height:auto;}
+ .eco5{border:solid gren 1px;
+ width:100%;
+ height:auto;}
+ .eco2 p{font-family: Catamaran,sans-serif;
+    font-size: 1.1875rem;
+    line-height: 1.9375rem;
+    letter-spacing: normal;}
+ 
+ .eco5 p{font-family:"MaxWebPro-Light","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:8px;
+	color:navy;margin-bottom:3px;line-height:13px;margin-top:3px;}
+	
+	.eco3 p{font-family: Catamaran,sans-serif;
+    font-size: 1.17rem;
+    line-height: 1.55rem;
+    letter-spacing: normal;}
+	
+	.eco .eco2 h5{font-family:"roboto","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;
+	color:red;margin-bottom:6px;margin-top:3px;}
+       
+	 .eco3 .eco4 h5{font-family:"roboto","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:13px;
+	color:navy;margin-bottom:3px;margin-top:0;
+	}
+	.eco3 .eco4 a{text-decoration:none;}
+	.eco3 .eco4 h5:hover{color:white;
+	}
+	
+	
+	 
+	.eco4 h5{margin-top:0;padding:0;}
+	
+	.eco2 h5{font-family:"roboto","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:13px;
+	color:navy;margin-bottom:8px;margin-top:3px;}
+	
+	.eco3 h5{font-family:"roboto","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:22px;
+	color:red;margin-bottom:6px;margin-top:3px;}
+	
+	.eco2 img{width:100%;height:auto;margin-top:1px;
+	}
+	.eco3 img{width:100%;height:auto;margin-top:3;}
+	
+	.fb-comments{width:100%;
+             height:auto;}
+	
+
+
+
+@media screen and (max-width:480px){
+	
+	.contenedor{background-color:#fce07f;
+	width:95%;
+	position:relative;
+	overflow:visible;
+	
+	}
+	
+	
+	.eco{
+ display:inline;
+ border:solid gren 1px;
+ width:100%;
+ height:auto;
+ padding:2px;margin-bottom:1px;}
+ 
+ .caja-principal{
+ display:inline;
+ 
+ overflow:visible;
+ 
+}
+.cuerpo{background-color:#;
+	width:80%;
+	height:auto;
+    line-height: 1.3;
+	text-align:justify;
+	padding:1px;
+	margin:30px;
+	margin-bottom:10px;
+    border: solid gra 1px;}
+	 .barra-lateral{background-color:#;
+	width:100%;
+	height:auto;
+
+	text-align:justify;
+	padding:1px;
+	margin-left:0;
+	
+    	margin-bottom:10px;
+border: solid gra 1px;}
+.fechadepublicacion{margin-left:2px;position:relative;background-color:yelow}
+.eco3{border:solid gren 1px;
+ width:100%;
+ height:auto;
+ padding:3px;
+ }
+ .eco3 p{font-family: Catamaran,sans-serif;
+    font-size: 15px;
+	color:green;
+    line-height:16px;
+    letter-spacing: normal;}
+	.eco2{border:solid gren 1px;
+ width:100%;
+ height:auto;}
+ .cuerpo h5{font-family:"roboto","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;
+	color:navy;margin-bottom:15px;}
+	
+.cuerpo h1{font-family:"roboto","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:18px;
+	color:navy;margin-bottom:24px;font-weight:bold;}
+	
+	.eco3 h5{font-family:"roboto","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:18px;
+	color:red;margin-bottom:6px;margin-top:3px;}
+	.cajacomentario{background-color:#00ccbe;
+	text-align:justify;
+	height:auto;
+	
+	border: solid yellw 1px;
+	margin-top:0;
+	position:relative;
+	padding:5px;
+	}
+	.cajacomentario h5{font-family:"roboto","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:12px;
+	color:green;margin-bottom:10px;}
+	.pie{background-color:#f07818;
+	
+	height:auto;
+	
+	border: solid yellw 1px;
+	margin-top:0;
+	position:relative;
+	padding:30px;
+	}
+	.cabecera{background-image: url("../img/PLANETA.jpg");
+	width:auto;
+	height:180px;
+	background-size: 140% 100%;
+padding:0px;
+	margin-bottom:20px;
+border: solid yellw 1px;}
+#menu ul a {
+ display:block;
+ color:#030d4f;
+ text-decoration:none;
+ font-weight:bold;
+ font-size:14px;
+ padding:10px;
+ font-family:"roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+ text-transform:none;
+ letter-spacing:1px;
+}
+	
+}
+	

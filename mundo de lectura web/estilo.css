@@ -1,0 +1,66 @@
+
+* {
+  margin:0 auto;
+  height:auto;
+  background:navy;
+  
+}
+
+
+.contenedor{background:navy;}
+
+
+
+.logo-name{display:flex;margin-bottom:30px;padding-top:20px;}
+
+.central{display:flex;margin-bottom:30px;padding-top:20px;}
+
+.ecco{width:1000px;
+      height:100px;
+	  margin-left:185px;
+	  background:white;}
+
+.logo{width:100px;
+      height:100px;
+	  margin-left:185px;}
+	  
+	  
+	  
+	  .cuerpo{width:55%;
+      height:auto;
+	  padding:0px;margin-left:0px;margin-top:-10px;margin-left:-90px;}
+	  
+.name{width:60%;
+      height:auto;}
+	  
+.logo img{width:100px;
+      height:100px;}
+	  
+	  .cuerpo img{width:100%;
+      height:auto;margin-bottom:18px;}
+	  
+	  h1{font-size:45px;color:orange;font-family:roboto;
+	  text-shadow: #FC0 1px 0 10px;}
+	  
+	  h2{font-size:25px;color:white;font-family:roboto;margin-bottom:20px;}
+	  p{font-size:18px;color:white;
+	  margin-bottom:18px;}
+	  a{font-size:18px;
+	  padding:20px;
+	  text-decoration:none;
+	  font-weight:bold;
+	  color:navy;
+	  }
+	  
+	  .block{width:230px;
+	  height:auto;
+	  background:orange;
+	  border-radius:10px;
+	  margin-bottom:10px;margin-left:0px;}
+	 
+	  .block:hover{
+	  background:white;
+	  }
+	  
+	  .footer{width:80%;
+	  padding-left:150px;}
