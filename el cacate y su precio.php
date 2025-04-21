@@ -1,0 +1,105 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" href="css/style.css?02082023">
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="canonical" href="https://teohervelxmen.webcindario.com/el cacate y su precio.php"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta name="keywords" content="precio,cacate,">
+    <meta name="description" content="Informacion sobre la comercializacion de cacate.">
+    <title>Compraventa del cacate</title>
+    
+
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    
+    
+    <link rel="icon" href="img/favicon.ico">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster:400">
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "MI ESPACIO VIRTUAL",
+		"logo": "img/Bunch-of-Balloons-PNG-Photos.png",
+		"sameAs": [
+				"https://facebook.com/name",
+				"https://twitter.com/name",
+				"https://instagram.com/name"
+		]
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta name="twitter:site" content="@">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="CONTACTANOS">
+    <meta name="twitter:description" content="MI ESPACIO VIRTUAL">
+	<!-- Aqui se empiza a definir como se mostrara en facebook al compartir la publicacion -->
+    <meta property="og:title" content="Compraventa del cacate.">
+    <meta property="og:description" content="Conoce el precio actual del cacate.">
+    <meta property="og:type" content="website">
+	<meta property="og:image" name="facebook:image" content="https://4.bp.blogspot.com/-oM7JbrL89nw/WM7AUqXajrI/AAAAAAAAAZU/-dHIrT8Y_ZgHGI9FSWK-Lsvjtb3jTWjPgCLcB/s400/Cachich%25C3%25ADn%2BPV38.jpg" />
+  <meta data-intl-tel-input-cdn-path="intlTelInput/">
+</head>
+
+<div id = "fb-root" > </div> <script async defer crossorigin = "anonymous" src = "https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v3.3&appId= 2158694887700796 & autoLogAppEvents = 1 " > </script>
+
+
+<div class="contenedor">
+
+<?php include("menu de navegacion.php"); ?>
+
+
+<div class="caja-principal">
+
+                   <div class="cuerpo">
+                  <div class="titulodelapublicacion"> 
+				  <div><h1>Cual es el precion actual del cacate?.</h1></div>
+				   <div class="compartir"><a href="https://www.facebook.com/sharer.php?u=https://https://teohervelxmen.webcindario.com/el cacate y su precio.php" target="_blank"><img alt="Sígueme en Facebook" height="80px" width="80px" src="img/compartir.gif" title="Sígueme en Facebook"></a></div>
+                   </div>
+                                 <!-- En este apartado escribe tu contenido principal -->
+                                  <img src="https://4.bp.blogspot.com/-oM7JbrL89nw/WM7AUqXajrI/AAAAAAAAAZU/-dHIrT8Y_ZgHGI9FSWK-Lsvjtb3jTWjPgCLcB/s400/Cachich%25C3%25ADn%2BPV38.jpg">
+                                  <p>El precio del cacate es muy variable y cambia de una semana a otra,la semana pasada estaba en $400 pesos aqui en la zona norte de chiapas;precisamente en los municipios de Tapilula y Rayon Chiapas.Esta semana el precio anda en $300 pesos y probablemente la proxima semana este entre $200 pesos o $250 pesos.</p>
+								  <p>El producto lo puedes vender  o adquirir en las ventas informales,domicilios particulares o mercados de la localidad de Tapilula o Rayon Chiapas.</p>
+								  <p>Cabe aclarar que los precios aqui descritos se refieren al producto sin cocer y la medida es una cubeta de pintura de 19 litros.</p>
+                   			   
+                   			   <p>Si tienes dudas dejanos tus comentarios y en cuanto podamos con gusto responderemos tus inquietudes.</p>
+                   			   <!-- En index.php cambiar por el nombre de la pagina -->
+                   
+                               <div class = "fb-comments" data-href = "https://teohervelxmen.webcindario.com/el cacate y su precio.php" data-width = "100%" data-numposts = "10" > </div>
+                   
+                   
+                   </div>
+				   
+<div class="barra-lateral">
+
+<?php include("entradas.php"); ?>
+
+
+</div>
+</div>
+<div class="pie">
+
+
+  <?php include("pie de pagina.php"); ?>
+
+</div>
+
+
+</div>
+
+<style>
+.compartir{width:100px;
+           height:100px;
+			margin-left:30px;
+			margin-bottom:0px;}
+			
+.titulodelapublicacion{width:100%;
+                       display:flex;}
+					   
+.fb-comments{width:100%;
+           height:auto;
+			}					   
+</style>
+
